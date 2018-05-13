@@ -1,4 +1,4 @@
-def sayhi():
-    print('hello this works')
+def sayhi(message):
+    print(message)
 
-sayhi()
+sayhi('hey there')
